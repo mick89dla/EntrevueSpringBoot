@@ -22,6 +22,5 @@ public class FilmController {
         return filmRepository.save(film);
     }
 
-    postMapping
 
 }
